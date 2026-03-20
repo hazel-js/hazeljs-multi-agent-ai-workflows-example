@@ -521,7 +521,7 @@ Apache 2.0
 
 ## Support
 
-- **Discord**: [discord.gg/hazeljs](https://discord.gg/hazeljs)
+- **Discord**: [discord.gg/hazeljs](https://discord.gg/rnxaDcXx)
 - **GitHub Issues**: [github.com/hazeljs/hazeljs/issues](https://github.com/hazeljs/hazeljs/issues)
 
 ---
