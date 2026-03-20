@@ -11,6 +11,7 @@
     "example:graph": "ts-node src/examples/02-graph-pattern.ts",
     "example:supervisor": "ts-node src/examples/03-supervisor-pattern.ts",
     "example:complete": "ts-node src/examples/04-complete-pipeline.ts",
+    "example:streaming": "ts-node src/examples/05-streaming-example.ts",
     "test": "jest"
   },
   "keywords": [
@@ -25,10 +26,10 @@
   "author": "Muhammad Arslan <muhammad.arslan@hazeljs.ai>",
   "license": "Apache-2.0",
   "dependencies": {
-    "@hazeljs/agent": "^0.2.1",
-    "@hazeljs/core": "^0.2.1",
-    "@hazeljs/rag": "^0.2.1",
-    "@hazeljs/ai": "^0.2.1",
+    "@hazeljs/agent": "file:../hazeljs/packages/agent",
+    "@hazeljs/core": "file:../hazeljs/packages/core",
+    "@hazeljs/rag": "file:../hazeljs/packages/rag",
+    "@hazeljs/ai": "file:../hazeljs/packages/ai",
     "openai": "^4.28.0"
   },
   "devDependencies": {
