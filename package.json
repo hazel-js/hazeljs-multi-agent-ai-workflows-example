@@ -12,6 +12,7 @@
     "example:supervisor": "ts-node src/examples/03-supervisor-pattern.ts",
     "example:complete": "ts-node src/examples/04-complete-pipeline.ts",
     "example:streaming": "ts-node src/examples/05-streaming-example.ts",
+    "server:streaming": "ts-node src/server/main.ts",
     "test": "jest"
   },
   "keywords": [
