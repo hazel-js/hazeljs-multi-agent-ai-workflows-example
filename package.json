@@ -27,10 +27,10 @@
   "author": "Muhammad Arslan <muhammad.arslan@hazeljs.ai>",
   "license": "Apache-2.0",
   "dependencies": {
-    "@hazeljs/agent": "file:../hazeljs/packages/agent",
-    "@hazeljs/core": "file:../hazeljs/packages/core",
-    "@hazeljs/rag": "file:../hazeljs/packages/rag",
-    "@hazeljs/ai": "file:../hazeljs/packages/ai",
+    "@hazeljs/agent": "0.2.3",
+    "@hazeljs/core": "0.2.3",
+    "@hazeljs/rag": "0.2.3",
+    "@hazeljs/ai": "0.2.3",
     "openai": "^4.28.0"
   },
   "devDependencies": {
